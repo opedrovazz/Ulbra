@@ -1,0 +1,127 @@
+body{
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    margin-bottom: 50px;
+}
+
+h1{
+    background-color: #6495ed;
+    padding-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+h2{
+    color:cornflowerblue;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+h3{
+    color: cornflowerblue;
+}
+
+h4{
+    margin-bottom: 0px;
+}
+
+p{
+    margin-top: 0;
+}
+
+hr{
+    margin-top: 0px;
+    border-color: cornflowerblue;
+}
+
+.tituloContato{
+    color:cornflowerblue;
+    margin-left: 20px;
+}
+
+.tudo{
+    width: 60%;
+    border: solid 1px black;
+    text-align: center;
+    margin: 0 auto;
+    padding:30px 30px 30px 30px;
+    clear:both;
+}
+
+.itens{
+    float:left
+}
+
+.linha {
+    clear:both;
+}
+
+.circle {
+    height: 10px;
+    width: 10px;
+    background-color: cornflowerblue;
+    border-radius: 50%;
+    float: right;
+    margin-left: 10px;
+}
+
+#foto{
+    width: 30%;
+    float:left
+}
+
+#contato{
+    width: 70%;
+    float:left;
+    text-align: left;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+#imgfoto{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 100%;
+}
+
+#objetivos{
+    text-align: justify;
+    margin: 2%;
+}
+
+#formacao{
+    text-align: justify;
+    margin: 2%;
+}
+
+#lingua{
+    text-align: justify;
+    margin: 2%;
+}
+
+#fim{
+    text-align: justify;
+    margin: 2%;
+}
+
+#coluna1 {
+    float:left;
+    width:45%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#coluna2 {
+    float:left;
+    width: 1px;
+    background-color: cornflowerblue;
+    margin-top: 40px;
+    height: 200px;
+}
+
+#coluna3 {
+    float: left;
+    width: 45%;
+    margin-right: 2%;
+    margin-left: 2%;
+}

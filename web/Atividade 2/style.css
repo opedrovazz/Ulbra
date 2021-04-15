@@ -1,0 +1,111 @@
+.body{
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    background-color:rgb(238, 238, 238);
+}
+
+.outline{
+    width: 60%;
+    border: solid 1px black;
+    text-align: center;
+    margin: 0 auto;
+    padding:30px 30px 30px 30px;
+    clear:both;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1%;
+    padding: 4%;
+}
+
+.header div{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 5px;
+    margin: 8px;
+}
+
+.h1_header{
+    font-size: 30px;
+    color:white;
+}
+
+.header div .center{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.img_header{
+    height: 320px;
+    width: 320px;
+    border-radius: 50%;
+}
+
+.color_header{
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(28, 184, 231);
+}
+.img_ifc{
+    width: 512px;
+    height: 170px;
+    margin-left: 60px;
+    padding-left: 15px;
+}
+
+.list{
+    list-style-type: none;
+}
+
+.p_left{
+    text-align: left;
+    margin-left: 60px;
+    padding-left: 15px;
+    font-size: 25px;
+}
+
+p{
+    margin-left: 60px;
+    padding-left: 15px;
+    font-size: 25px;
+}
+
+li{
+    text-align: left;
+    margin-left: 60px;
+    padding-left: 15px;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+h2{
+    text-align: left;
+}
+
+span{
+    color: rgb(28, 184, 231);
+}
+
+.side_division{
+    border-left: 5px solid rgb(28, 184, 231);
+    display: flex;
+    flex-direction: column;
+}
+
+.top_division{
+    border-top: 5px solid rgb(28, 184, 231);
+    /*text-justify: distribute-all-lines;*/
+}
+
+.div_half{
+    max-width: 50%;
+    min-width: 50%;
+}
+
+.list{
+    list-style-type: none;
+}

@@ -1,0 +1,66 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-color: #e2e2e2;
+}
+
+.tudo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.linha{
+    clear:both;
+}
+
+.titulosessao{
+    font-size: 20px;
+    padding: 10px;
+}
+
+#cabecalho{
+    background-color: #162e58;
+    min-height: 100px;
+    padding:20px 50px 10px 50px;
+}
+
+#titulocabecalho{
+    color:#ffffff;
+    float:left;
+    min-width: 50%;
+    font-size: 16px;
+    text-align: left;
+}
+
+#classificacao{
+    width: 50%;
+}
+
+.tableclassificacao{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.titulogrupo{
+    font-size: 14px;
+    padding: 5px;
+}
+
+#goleadores{
+    width:50%;
+}
+
+#tablegoleadores{
+    width:100%;
+    background-color: #ffffff;
+}
+
+#jogos {
+    width:50%;
+}
+
+#tablejogos{
+    width: 100%;
+    background-color: #ffffff;
+}
